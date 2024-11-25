@@ -21,7 +21,7 @@
 	หลากหลายเหมาะกับพืชที่ต้องการควบคุมในหลายๆอย่าง เเละโมเดลที่ออกเเบบมา
 	เพื่อให้สามารถเคลื่นที่ได้ง่ายดาย
 ### ชิ้นงานก่อนพัฒนา
-เมื่อปี 2021 ได้จัดทำศูนย์การเรียนรู้ <a href="https://solarsmartfarm.wordpress.com/" target="_blank">Woranari Solar x Smart Farm</a> เพื่อเป็นการเรียนรู้และใช้ในการประกวด 
+ เมื่อปี 2021 ได้จัดทำศูนย์การเรียนรู้ [Woranari Solar x Smart Farm](https://solarsmartfarm.wordpress.com/) เพื่อเป็นการเรียนรู้และใช้ในการประกวด 
 
 ## ภาพชิ้นงานปัจจุบัน
 ![คำอธิบายภาพ 1](https://codfzaeaouvwxhozpuhq.supabase.co/storage/v1/object/sign/SmartFarm/IMG_1019.JPEG?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJTbWFydEZhcm0vSU1HXzEwMTkuSlBFRyIsImlhdCI6MTczMjUyMTMyOCwiZXhwIjoxODI3MTI5MzI4fQ.M8H1tUg2E1tWZwgfFwKvd7WpnaHsuMQSA8YyMuHNckY&t=2024-11-25T07%3A55%3A28.583Z)
